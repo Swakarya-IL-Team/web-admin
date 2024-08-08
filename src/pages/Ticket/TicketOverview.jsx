@@ -73,7 +73,7 @@ const TicketOverview = () => {
           <table className="border-collapse border border-slate-700">
             <thead className="bg-[#C57557] h-[60px] w-full">
               <tr className="text-white text-center">
-                <th className="border border-slate-700">Name</th>
+                <th className="border border-slate-700">Kode</th>
                 <th className="border border-slate-700">Type Ticket</th>
                 <th className="border border-slate-700">Amount</th>
                 <th className="border border-slate-700">Visit Schedule</th>
