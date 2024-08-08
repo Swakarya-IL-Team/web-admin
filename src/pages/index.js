@@ -1,0 +1,23 @@
+export { default as Login } from "./Login/Login";
+export { default as SignUp } from "./SignUp/SignUp";
+export { default as ForgotPassword } from "./Login/ForgotPassword";
+export { default as EnterCode } from "./Login/EnterCode";
+export { default as NewPassword } from "./Login/NewPassword";
+export {default as CmsPage} from "./CMS/CmsScreen";
+export {default as MuseumInformation} from "./CMS/MuseumInfo";
+export {default as Dashboard} from "./Dashboard/Dashboard";
+export {default as EditInformationScreen} from "./CMS/EditInfoScreen";
+export {default as AddInformationScreen} from "../pages/CMS/AddInfoScreen";
+export {default as EventOverview} from "./EventManagement/EventOverview";
+export { default as TicketScreen } from "./Ticket/TicketScreen";
+export {default as MuseumCollection} from "./CMS/MuseumCollection";
+export {default as SettingEvent} from "./EventManagement/SettingEvent";
+export {default as ReviewScreen} from "./Review/ReviewScreen";
+export {default as EditEventScreen} from "./EventManagement/EditEventScreen";
+export {default as AddEventScreen} from "./EventManagement/AddEventScreen";
+export { default as ReportEvent } from "./EventManagement/ReportEventScreen";
+export { default as AddReport } from "./EventManagement/AddReportEventScreen";
+export { default as EditReport } from "./EventManagement/EditReportScreen";
+export { default as ProfileScreen } from "./Profile/ProfileScreen";
+export { default as EditProfileScreen} from "./Profile/EditProfileScreen";
+
