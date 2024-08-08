@@ -1,83 +1,83 @@
 const TicketData = [
     {
-      nama: "Raihan",
+      nama: "abc-123",
       tipeTicket: "Student",
       jumlah: "2",
       jadwalKedatangan: "2023-05-10",
       status: "Paid Off"
     },
     {
-      nama: "Aulia",
+      nama: "xyz-123",
       tipeTicket: "Regular",
       jumlah: "3",
       jadwalKedatangan: "2023-05-11",
       status: "Paid Off"
     },
     {
-      nama: "Bagas",
+      nama: "rst-112",
       tipeTicket: "VIP",
       jumlah: "1",
       jadwalKedatangan: "2023-05-12",
       status: "Paid Off"
     },
     {
-      nama: "Citra",
+      nama: "bca-231",
       tipeTicket: "Student",
       jumlah: "2",
       jadwalKedatangan: "2023-05-13",
       status: "Paid Off"
     },
     {
-      nama: "Dian",
+      nama: "rst-190",
       tipeTicket: "Regular",
       jumlah: "4",
       jadwalKedatangan: "2023-05-14",
       status: "Paid Off"
     },
     {
-      nama: "Eka",
+      nama: "jki-113",
       tipeTicket: "VIP",
       jumlah: "1",
       jadwalKedatangan: "2023-05-15",
       status: "Paid Off"
     },
     {
-      nama: "Fajar",
+      nama: "vzm-511",
       tipeTicket: "Student",
       jumlah: "3",
       jadwalKedatangan: "2023-05-16",
       status: "Paid Off"
     },
     {
-      nama: "Gina",
+      nama: "uxw-271",
       tipeTicket: "Regular",
       jumlah: "2",
       jadwalKedatangan: "2023-05-17",
       status: "Paid Off"
     },
     {
-      nama: "Hana",
+      nama: "cjg-432",
       tipeTicket: "VIP",
       jumlah: "2",
       jadwalKedatangan: "2023-05-18",
       status: "Paid Off"
     },
     {
-      nama: "Indra",
+      nama: "cio-657",
       tipeTicket: "Student",
       jumlah: "1",
       jadwalKedatangan: "2023-05-19",
       status: "Paid Off"
     },
     {
-      nama: "Joko",
+      nama: "wxb-726",
       tipeTicket: "Regular",
       jumlah: "2",
       jadwalKedatangan: "2023-05-20",
       status: "Paid Off"
     },
     {
-      nama: "Kiki",
+      nama: "jkm-837",
       tipeTicket: "VIP",
       jumlah: "4",
       jadwalKedatangan: "2023-05-21",
@@ -91,14 +91,14 @@ const TicketData = [
       status: "Paid Off"
     },
     {
-      nama: "Mira",
+      nama: "pht-667",
       tipeTicket: "Regular",
       jumlah: "3",
       jadwalKedatangan: "2023-05-23",
       status: "Paid Off"
     },
     {
-      nama: "Nina",
+      nama: "sdj-453",
       tipeTicket: "VIP",
       jumlah: "2",
       jadwalKedatangan: "2023-05-24",
